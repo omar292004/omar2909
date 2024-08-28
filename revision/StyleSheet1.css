@@ -1,0 +1,29 @@
+﻿
+body {
+    background-image: url('hsb.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+}
+
+#navbarNav {
+    margin-left: 300px;
+}
+
+nav {
+    background-image: linear-gradient(130deg, white, white, white, red, red, red);
+}
+
+.carousel-item {
+    margin-left: 40%;
+}
+
+#log {
+    background-image: url('hsb.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    padding-top:147px;
+}
